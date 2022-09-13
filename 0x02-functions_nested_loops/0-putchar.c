@@ -1,5 +1,5 @@
 #include "main.h"
-#include  <stdio.h>
+#include <stdio.h>
 
 /**
  *main 3- prints putchar
@@ -16,5 +16,7 @@ int main(void)
 	putchar('h');
 	putchar('a');
 	putchar('r');
+	putchar('\n');
+
 	return (0);
 }
